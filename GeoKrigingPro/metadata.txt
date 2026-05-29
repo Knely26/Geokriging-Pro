@@ -1,0 +1,12 @@
+[general]
+name=GeoKrigingPro
+qgisMinimumVersion=4.0
+description=Variografia, mapa variografico y kriging ordinario por motor externo seguro para QGIS.
+about=Plugin funcional para pruebas geoestadisticas: carga puntos, filtra por dominio poligonal, calcula variogramas experimentales, genera mapa variografico headless, configura modelo teorico multiestructura y ejecuta kriging ordinario con pasadas jerarquicas, capping, subbloques, salida GeoTIFF permanente, CSV de bloques, varianza/desviación estándar auditables y LVA automatico 2D experimental con ventana local, tensor de orientación, confianza/fallback y vectores de auditoría.
+version=1.1.6
+category=Analysis
+author=GeoKrigingPro
+email=
+icon=resources/icon.png
+experimental=True
+hasProcessingProvider=False
